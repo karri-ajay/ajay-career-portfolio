@@ -27,32 +27,28 @@ Currently developing skills in business analysis, process analysis, SQL and Powe
 - MIS and Operational Reporting
 - Business Process Improvement
 
-## Skills
+## Technical Skills & Learning Progress
 
-### Operations & Business
-- BFSI Operations
-- Loan Processing Support
-- Documentation Verification
-- Transaction Support
-- Customer Account Operations
-- Process Documentation
-- Issue Resolution
-- SOP Adherence
+### SQL – Practice Completed
+- Practiced approximately 150 SQL queries.
+- Covered SELECT, WHERE, ORDER BY and Aggregate Functions.
+- Practiced GROUP BY, HAVING, JOINS and CASE WHEN.
+- Practiced Subqueries and CTEs.
+- Practiced Window Functions including ROW_NUMBER, RANK, DENSE_RANK, LAG and LEAD.
 
-### Reporting & Tools
-- Microsoft Excel – Basic
-- Salesforce CRM
-- Zoho CRM
-- SQL – Certified; Currently Practicing
-- Power BI – Currently Learning
+### Microsoft Excel – Currently Learning
+- Excel basics and data organization.
+- Learning Pivot Tables.
+- Practicing data summarization and reporting.
 
-### Business Analysis
-- Business Process Understanding
-- Workflow Analysis
-- Requirement Understanding
-- Data Validation
-- Problem Identification
-- Process Improvement Concepts
+### Power BI – Next Learning Goal
+- Power BI fundamentals.
+- Data visualization and reporting.
+- Dashboard development.
+
+### Tableau – Planned Learning
+- Tableau fundamentals.
+- Data visualization and business reporting.
 
 ## Professional Experience
 
