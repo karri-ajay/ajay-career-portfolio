@@ -86,4 +86,4 @@ Projects and practical case studies will be added here as I complete them using 
 
 ---
 
-**Career Goal:** To build a career in Operations Analysis and Business Analysis by applying operational knowledge, analytical thinking and continuous learning.
+**Career Goal:** To build a career in Operations Analysis and Business Analysis by applying operational knowledge, analytical thinking and continuous learning
