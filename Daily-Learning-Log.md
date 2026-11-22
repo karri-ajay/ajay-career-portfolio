@@ -6,38 +6,30 @@ This repository documents my continuous learning, practical exercises, and skill
 
 ---
 
-## 20 November 2026
+## 22 November 2026
 
-### Learning Focus
-- Operations Analysis Fundamentals
-- Business Analysis Fundamentals
-- Business Processes and Workflow Understanding
+### Learning Progress
 
-### Skills Practiced
-- Understanding operational workflows
-- Identifying process gaps
-- Basic process documentation
-- Operational reporting concepts
+**SQL – Practice Completed**
+- Practiced approximately 150 SQL queries.
+- Covered SELECT to CTEs and Window Functions.
+- Practiced joins, subqueries and analytical queries.
 
-### Practical Exercise
-- Studied a sample BFSI loan-processing workflow.
-- Identified potential processing delays.
-- Reviewed documentation verification steps.
-- Explored opportunities for process improvement.
+**Excel – Currently Learning**
+- Learning Pivot Tables.
+- Practicing data summarization.
+- Understanding operational reporting.
 
-### Key Learnings
-- Understanding how business operations workflows function.
-- Importance of documentation accuracy.
-- How process analysis can support operational efficiency.
+### Next Learning Goals
+- Complete Excel Pivot Tables.
+- Practice Excel MIS reporting.
+- Start Power BI fundamentals.
+- Learn Tableau after Power BI.
 
-### Practical Output
-- Reviewed a sample loan-processing workflow.
-- Identified possible documentation and processing gaps.
+### Career Development
+Continuously developing practical skills for Business Analyst and Operations Analyst opportunities.
 
-### Next Learning Goal
-- Understand AS-IS and TO-BE processes.
-- Learn basic process mapping.
-- Practice identifying process improvement opportunities.
+---
 
 ---
 
